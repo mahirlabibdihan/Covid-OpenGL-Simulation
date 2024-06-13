@@ -1,3 +1,3 @@
 # Covid-OpenGL-Simulation
 
-![Image](2.png)
+![Image](2.PNG)
