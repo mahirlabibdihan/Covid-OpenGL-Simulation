@@ -1,0 +1,27 @@
+﻿  Source.cpp
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(8,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(9,19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(31,45): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(33,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(33,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(42,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(53,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(53,31): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(56,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(71,49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(79,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(80,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(81,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(98,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(102,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(110,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(126,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(132,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(138,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(144,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(150,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(180,46): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(222,8): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(233,15): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Fiverr\Alya\Covid\Covid\Source.cpp(236,15): warning C4305: '/=': truncation from 'double' to 'GLfloat'
+  Covid.vcxproj -> D:\Fiverr\Alya\Covid\Debug\Covid.exe
